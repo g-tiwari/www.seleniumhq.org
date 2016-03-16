@@ -77,9 +77,9 @@
     <tbody>
       <tr>
         <td>Java</td>
-        <td>2.52.0</td>
-        <td>2016-02-11</td>
-        <td><a href="http://selenium-release.storage.googleapis.com/2.52/selenium-java-2.52.0.zip">Download</a>&nbsp;&nbsp;</td>
+        <td>2.53.0</td>
+        <td>2016-03-15</td>
+        <td><a href="http://selenium-release.storage.googleapis.com/2.53/selenium-java-2.53.0.zip">Download</a>&nbsp;&nbsp;</td>
         <td><a href="http://goo.gl/5IVvjZ">Change log</a>&nbsp;&nbsp;</td>
         <td><a href="http://goo.gl/Grc6tm" alt="Javadoc">Javadoc</a></td>
       </tr>
